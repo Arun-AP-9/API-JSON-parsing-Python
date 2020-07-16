@@ -1,0 +1,248 @@
+country name,DS,FIPS,GEOMETRY,IOC,ISO,ISO2,ITU,LAND_AREA_KMSQ_2012,LANGUAGES_EN_2012,MARC,MORT,SHORTNAMEES,SHORTNAMEFR,WHO,WHOLEGALSTATUS,WHO_REGION,WHO_REGION_CODE,WMO,WORLD_BANK_INCOME_GROUP,WORLD_BANK_INCOME_GROUP_CODE,WORLD_BANK_INCOME_GROUP_GNI_REFERENCE_YEAR,WORLD_BANK_INCOME_GROUP_RELEASE_DATE
+Afghanistan,AFG,AF,AFG,AFG,AFG,AF,AFG,"652,230","Dari, Pashto, Turkic languages, 30 minor languages",af,3010,Afganistan,Afghanistan,AFG,M,Eastern Mediterranean,EMR,AF,Low income,WB_LI,2017,2018
+Albania,AL,AL,ALB,ALB,ALB,AL,ALB,"27,400","Albanian, Greek, Vlach, Romani, Slavic dialects",aa,4005,Albania,Albanie,ALB,M,Europe,EUR,AB,Upper middle income,WB_UMI,2017,2018
+Algeria,DZ,AG,DZA,ALG,DZA,DZ,ALG,"2,381,740","Arabic, French, Berber dialects",ae,1010,Argelia,Algérie,ALG,M,Africa,AFR,AL,Upper middle income,WB_UMI,2017,2018
+American Samoa,,,ASM,,ASM,,,,,,,,,,,,,,Upper middle income,WB_UMI,2017,2018
+Andorra,AND,AN,AND,AND,AND,AD,AND,470,"Catalan, French, Castilian, Portuguese",an,4008,Andorra,Andorre,AND,M,Europe,EUR,,High income,WB_HI,2017,2018
+Angola,,AO,AGO,ANG,AGO,AO,AGL,"1,246,700","Portuguese, Bantu, other African languages",ao,1020,Angola,Angola,ANG,M,Africa,AFR,AN,Lower middle income,WB_LMI,2017,2018
+Anguilla,,,AIA,,AIA,,,,,,2005,,,,,Americas,AMR,,Lower-middle-income,WB_LMI,2017,2018
+Antigua and Barbuda,,AC,ATG,ANT,ATG,AG,ATG,440,"English, local dialects",aq,2010,Antigua y Barbuda,Antigua-et-Barbuda,ANI,M,Americas,AMR,AT,High income,WB_HI,2017,2018
+Argentina,RA,AR,ARG,ARG,ARG,AR,ARG,"2,736,690","Spanish, others",ag,2020,Argentina,Argentine,ARG,M,Americas,AMR,AG,High income,WB_HI,2017,2018
+Armenia,AM,AM,ARM,ARM,ARM,AM,ARM,"28,480",Armenian,ai,4007,Armenia,Arménie,ARM,M,Europe,EUR,AY,Upper middle income,WB_UMI,2017,2018
+Aruba,,,ABW,,ABW,,,,,,2025,,,,,,,,High income,WB_HI,2017,2018
+Australia,AUS,AS,AUS,AUS,AUS,AU,AUS,"7,682,300",English,at,5020,Australia,Australie,AUS,M,Western Pacific,WPR,AU,High income,WB_HI,2017,2018
+Austria,A,AU,AUT,AUT,AUT,AT,AUT,"83,871",German,au,4010,Austria,Autriche,AUT,M,Europe,EUR,OS,High income,WB_HI,2017,2018
+Azerbaijan,AZ,AJ,AZE,AZE,AZE,AZ,AZE,"82,450","Azerbaijani, others",aj,4012,Azerbaijan,Azerbaïdjan,AZE,M,Europe,EUR,AJ,Upper middle income,WB_UMI,2017,2018
+Bahamas,BS,BF,BHS,BAH,BHS,BS,BAH,"10,010","English, Creole",bf,2030,Bahamas,Bahamas,BAH,M,Americas,AMR,BA,High income,WB_HI,2017,2018
+Bahrain,BRN,BA,BHR,BRN,BHR,BH,BHR,760,"Arabic, English, Farsi, Urdu",ba,3020,Bahrein,Bahreïn,BAA,M,Eastern Mediterranean,EMR,BN,High income,WB_HI,2017,2018
+Bangladesh,BD,BG,BGD,BAN,BGD,BD,BGD,"130,170","Bangla, English",bg,3025,Bangladesh,Bangladesh,BAN,M,South-East Asia,SEAR,BW,Lower middle income,WB_LMI,2017,2018
+Barbados,BDS,BB,BRB,BAR,BRB,BB,BRB,430,English,bb,2040,Barbados,Barbade,BAR,M,Americas,AMR,BR,High income,WB_HI,2017,2018
+Belarus,BY,BO,BLR,BLR,BLR,BY,BLR,"202,900","Belarusian, Russian",bw,4018,Belarus,Bélarus,BLR,M,Europe,EUR,BY,Upper middle income,WB_UMI,2017,2018
+Belgium,B,BE,BEL,BEL,BEL,BE,BEL,"30,280","Dutch, French, German",be,4020,Belgica,Belgique,BEL,M,Europe,EUR,BX,High income,WB_HI,2017,2018
+Belize,BZ,BH,BLZ,BIZ,BLZ,BZ,BLZ,"22,810","Spanish, Creole, Mayan dialects, English",bh,2045,Belice,Belize,BLZ,M,Americas,AMR,BH,Upper middle income,WB_UMI,2017,2018
+Benin,DY,BN,BEN,BEN,BEN,BJ,BEN,"112,760","French, Fon, Yoruba, tribal languages",dm,1025,Benin,Bénin,BEN,M,Africa,AFR,BJ,Low income,WB_LI,2017,2018
+Bermuda,,,BMU,,BMU,,,,,,2050,,,,,,,,High income,WB_HI,2017,2018
+Bhutan,,BT,BTN,BHU,BTN,BT,BTN,"38,394","Sharchhopka, Dzongkha, Lhotshamkha, others",bt,3027,Bhutan,Bhoutan,BHU,M,South-East Asia,SEAR,,Lower middle income,WB_LMI,2017,2018
+Bolivia (Plurinational State of),BOL,BL,BOL,BOL,BOL,BO,BOL,"1,083,300","Spanish, Quechua, Aymara",bo,2060,Bolivia (Estado Plurinacional de),Bolivie (État plurinational de),BOL,M,Americas,AMR,BO,Lower middle income,WB_LMI,2017,2018
+"Bonaire, Saint Eustatius and Saba",,,BES,,BES,,,,,,,,,,,,,,,,2017,2018
+Bosnia and Herzegovina,BIH,BK,BIH,BIH,BIH,BA,BIH,"51,000","Bosnian, Croatian, Serbian",bn,4025,Bosnia y Herzegovina,Bosnie-Herzégovine,BIH,M,Europe,EUR,BG,Upper middle income,WB_UMI,2017,2018
+Botswana,BW,BC,BWA,BOT,BWA,BW,BOT,"566,730","Setswana, Kalanga, English",bs,1030,Botswana,Botswana,BOT,M,Africa,AFR,BC,Upper middle income,WB_UMI,2017,2018
+Brazil,BR,BR,BRA,BRA,BRA,BR,B,"8,459,420",Portuguese,bl,2070,Brasil,Brésil,BRA,M,Americas,AMR,BZ,Upper middle income,WB_UMI,2017,2018
+British Virgin Islands,,,VGB,,VGB,,,,,,2085,,,,,,,,High income,WB_HI,2017,2018
+Brunei Darussalam,BRU,BX,BRN,BRU,BRN,BN,BRU,5270,"English, Malay, Chinese",bx,3030,Brunei Darussalam,Brunéi Darussalam,BRU,M,Western Pacific,WPR,BD,High income,WB_HI,2017,2018
+Bulgaria,BG,BU,BGR,BUL,BGR,BG,BUL,"108,610","Bulgarian, others",bu,4030,Bulgaria,Bulgarie,BUL,M,Europe,EUR,BU,Upper middle income,WB_UMI,2017,2018
+Burkina Faso,BF,UV,BFA,BUR,BFA,BF,BFA,"273,600","French, native African languages",uv,1035,Burkina Faso,Burkina Faso,BFA,M,Africa,AFR,HV,Low income,WB_LI,2017,2018
+Burundi,RU,BY,BDI,BDI,BDI,BI,BDI,"25,680","Kirundi, French, Swahili",bd,1040,Burundi,Burundi,BUU,M,Africa,AFR,BI,Low income,WB_LI,2017,2018
+Cabo Verde,,CV,CPV,CPV,CPV,CV,CPV,"4,030","Portuguese, Crioulo",cv,1060,Cabo Verde,Cabo Verde,CAV,M,Africa,AFR,CV,Lower middle income,WB_LMI,2017,2018
+Cambodia,K,CB,KHM,CAM,KHM,KH,CBG,"176,520","Khmer, French, English",cb,3050,Camboya,Cambodge,CAM,M,Western Pacific,WPR,KP,Lower middle income,WB_LMI,2017,2018
+Cameroon,CAM,CM,CMR,CMR,CMR,CM,CME,"472,710","French, English, 24 African language groups",cm,1045,Camerun,Cameroun,CAE,M,Africa,AFR,CM,Lower middle income,WB_LMI,2017,2018
+Canada,CDN,CA,CAN,CAN,CAN,CA,CAN,"9,093,510","English, French, others",xxc,2090,Canada,Canada,CAN,M,Americas,AMR,CN,High income,WB_HI,2017,2018
+Cayman Islands,,,CYM,,CYM,,,,,,2110,,,,,,,,High income,WB_HI,2017,2018
+Central African Republic,RCA,CT,CAF,CAF,CAF,CF,CAF,"622,980","Sango, French, tribal languages",cx,1070,Republica Centroafricana,République centrafricaine,CAF,M,Africa,AFR,CE,Low income,WB_LI,2017,2018
+Chad,TCH,CD,TCD,CHA,TCD,TD,TCD,"1,259,200","French, Arabic, Sara, more than 120 different languages and dialects",cd,1080,Chad (el),Tchad,CHA,M,Africa,AFR,CD,Low income,WB_LI,2017,2018
+Chile,RCH,CI,CHL,CHI,CHL,CL,CHL,"743,532","Spanish, others",cl,2120,Chile,Chili,CHI,M,Americas,AMR,CH,High income,WB_HI,2017,2018
+China,,CH,CHN,CHN,CHN,CN,CHN,"9,327,489","Mandarin, Cantonese, others",cc,3068,China,Chine,CHN,M,Western Pacific,WPR,CI,Upper middle income,WB_UMI,2017,2018
+"China, Hong Kong Special Administrative Region",,,HKG,,HKG,,,,,,3090,,,,,,,,High income,WB_HI,2017,2018
+"China, Macao Special Administrative Region",,,MAC,,MAC,,,,,,3220,,,,,,,,High income,WB_HI,2017,2018
+China: Province of Taiwan only,,,XX1,,XX1,,,,,,3070,,,,,,,,,,2017,2018
+Colombia,CO,CO,COL,COL,COL,CO,CLM,"1,109,500",Spanish,ck,2130,Colombia,Colombie,COL,M,Americas,AMR,CO,Upper middle income,WB_UMI,2017,2018
+Comoros,,CN,COM,COM,COM,KM,COM,"1,861","Arabic, French, Shikomoro",cq,1090,Comoras,Comores,COM,M,Africa,AFR,IC,Low income,WB_LI,2017,2018
+Congo,RCB,CF,COG,CGO,COG,CG,COG,"341,500","French, Lingala, Monokutuba, many local languages and dialects",cf,1100,Congo (el),Congo,CNG,M,Africa,AFR,CG,Lower middle income,WB_LMI,2017,2018
+Cook Islands,NZ,CW,COK,COK,COK,CK,CKH,,,cw,5060,Islas Cook,Îles Cook,COK,M,Western Pacific,WPR,KU,High-income,WB_HI,2017,2018
+Costa Rica,CR,CS,CRI,CRC,CRI,CR,CTR,"51,060","Spanish, English",cr,2140,Costa Rica,Costa Rica,COR,M,Americas,AMR,CS,Upper middle income,WB_UMI,2017,2018
+Croatia,HR,HR,HRV,CRO,HRV,HR,HRV,"55,960",Croatian,ci,4038,Croacia,Croatie,CRO,M,Europe,EUR,RH,High income,WB_HI,2017,2018
+Cuba,C,CU,CUB,CUB,CUB,CU,CUB,"106,440",Spanish,cu,2150,Cuba,Cuba,CUB,M,Americas,AMR,CU,Upper middle income,WB_UMI,2017,2018
+Curaçao,,,CUW,,CUW,,,,,,,,,,,,,,High income,WB_HI,2017,2018
+Cyprus,CY,CY,CYP,CYP,CYP,CY,CYP,"9,240","Greek, Turkish, English",cy,3080,Chipre,Chypre,CYP,M,Europe,EUR,CY,High income,WB_HI,2017,2018
+Czechia,CZ,EZ,CZE,CZE,CZE,CZ,CZE,"77,250","Czech, others",xr,4045,Republica Checa,République tchèque,CZH,M,Europe,EUR,CZ,High income,WB_HI,2017,2018
+"Czechoslovakia, Former",,,XX5,,XX5,,,,,,4040,,,,,,,,,,2017,2018
+Côte d'Ivoire,CI,IV,CIV,CIV,CIV,CI,CTI,318000,"French, Dioula, 60 native dialects",iv,1115,Côte d'Ivoire,Côte d'Ivoire,IVC,M,Africa,AFR,IV,Lower middle income,WB_LMI,2017,2018
+Democratic People's Republic of Korea,,KN,PRK,PRK,PRK,KP,KRE,"120,410",Korean,kn,3083,Republica Popular Democratica de Corea,République populaire démocratique de Corée,KRD,M,South-East Asia,SEAR,KR,Low income,WB_LI,2017,2018
+Democratic Republic of the Congo,ZRE,CG,COD,COD,COD,CD,COD,"2,267,050","French, Lingala, Kingwana, Kikongo, Tshiluba",cg,1555,Republica Democratica del Congo,République démocratique du Congo,COD,M,Africa,AFR,ZR,Low income,WB_LI,2017,2018
+Denmark,DK,DA,DNK,DEN,DNK,DK,DNK,"42,430","Danish, others",dk,4050,Dinamarca,Danemark,DEN,M,Europe,EUR,DN,High income,WB_HI,2017,2018
+Djibouti,,DJ,DJI,DJI,DJI,DJ,DJI,"23,180","French, Arabic, Somali, Afar",ft,1120,Djibouti,Djibouti,DJI,M,Eastern Mediterranean,EMR,DJ,Lower middle income,WB_LMI,2017,2018
+Dominica,WD,DO,DMA,DMA,DMA,DM,DMA,750,"English, French patois",dq,2160,Dominica,Dominique,DOM,M,Americas,AMR,DO,Upper middle income,WB_UMI,2017,2018
+Dominican Republic,DOM,DR,DOM,DOM,DOM,DO,DOM,"48,320",Spanish,dr,2170,Republica Dominicana,République dominicaine,DOR,M,Americas,AMR,DR,Upper middle income,WB_UMI,2017,2018
+Ecuador,EC,EC,ECU,ECU,ECU,EC,EQA,"248,360","Spanish, Quechua",ec,2180,Ecuador,Équateur,ECU,M,Americas,AMR,EQ,Upper middle income,WB_UMI,2017,2018
+Egypt,ET,EG,EGY,EGY,EGY,EG,EGY,"995,450",Arabic,ua,1125,Egipto,Égypte,EGY,M,Eastern Mediterranean,EMR,EG,Lower middle income,WB_LMI,2017,2018
+El Salvador,ES,ES,SLV,ESA,SLV,SV,SLV,"20,720","Spanish, Amerindian languages",es,2190,El Salvador,El Salvador,ELS,M,Americas,AMR,ES,Lower middle income,WB_LMI,2017,2018
+Equatorial Guinea,,EK,GNQ,GEQ,GNQ,GQ,GNE,"28,050","Spanish, French, others",eg,1130,Guinea Ecuatorial,Guinée équatoriale,EQG,M,Africa,AFR,GQ,Upper middle income,WB_UMI,2017,2018
+Eritrea,,ER,ERI,ERI,ERI,ER,ERI,"101,000","Tigrinya, Arabic, English, others",ea,1135,Eritrea,Érythrée,ERI,M,Africa,AFR,,Low income,WB_LI,2017,2018
+Estonia,EST,EN,EST,EST,EST,EE,EST,"42,390","Estonian, Russian",er,4055,Estonia,Estonie,EST,M,Europe,EUR,EO,High income,WB_HI,2017,2018
+Eswatini,SD,WZ,SWZ,SWZ,SWZ,SZ,SWZ,17200,"English, siSwati",sq,1480,Eswatini,Eswatini,SWZ,M,Africa,AFR,SV,Lower middle income,WB_LMI,2017,2018
+Ethiopia,ETH,ET,ETH,ETH,ETH,ET,ETH,"1,000,000","Amharic, Oromo, English, Arabic, Tigrayan, others",et,1140,Etiopia,Éthiopie,ETH,M,Africa,AFR,ET,Low income,WB_LI,2017,2018
+Falkland Islands (Malvinas),,,FLK,,FLK,,,,,,2200,,,,,,,,,,2017,2018
+Faroe Islands,,,FRO,,FRO,,,,,,,,,,,,,,High income,WB_HI,2017,2018
+Fiji,FJI,FJ,FJI,FIJ,FJI,FJ,FJI,"18,270","English, Fijian, Hindustani",fj,5070,Fiji,Fidji,FIJ,M,Western Pacific,WPR,FJ,Upper middle income,WB_UMI,2017,2018
+Finland,FIN,FI,FIN,FIN,FIN,FI,FIN,"303,900","Finish, Swedish",fi,4070,Finlandia,Finlande,FIN,M,Europe,EUR,FI,High income,WB_HI,2017,2018
+France,F,FR,FRA,FRA,FRA,FR,F,"547,660",French,fr,4080,Francia,France,FRA,M,Europe,EUR,FR,High income,WB_HI,2017,2018
+French Guiana,,,GUF,,GUF,,,,,,2210,,,,,,,,,,2017,2018
+French Polynesia,,,PYF,,PYF,,,,,,,,,,,,,,High income,WB_HI,2017,2018
+Gabon,G,GB,GAB,GAB,GAB,GA,GAB,"257,670","French, Fang, Myene, Nzebi, Bapounou, Bandjabi",go,1160,Gabon,Gabon,GAB,M,Africa,AFR,GO,Upper middle income,WB_UMI,2017,2018
+Gambia,WAG,GA,GMB,GAM,GMB,GM,GMB,"10,120","English, Mandinka, Wolof, Fula, other indigenous languages",gm,1170,Gambia,Gambie,GAM,M,Africa,AFR,GB,Low income,WB_LI,2017,2018
+Georgia,GE,GG,GEO,GEO,GEO,GE,GEO,"69, 490","Georgian, Russian, others",gs,4084,Georgia,Géorgie,GEO,M,Europe,EUR,GG,Lower middle income,WB_LMI,2017,2018
+Germany,D,GM,DEU,GER,DEU,DE,D,"348,630",German,gw,4085,Alemania,Allemagne,DEU,M,Europe,EUR,DL,High income,WB_HI,2017,2018
+"Germany, Former Democratic Republic",,,XX6,,XX6,,,,,,4090,,,,,,,,,,2017,2018
+"Germany, Former Federal Republic",,,XX7,,XX7,,,,,,4100,,,,,,,,,,2017,2018
+"Germany, West Berlin",,,XX8,,XX8,,,,,,4120,,,,,,,,,,2017,2018
+Ghana,GH,GH,GHA,GHA,GHA,GH,GHA,"227,540","English, Asante, Ewe, Fante, Boron, others",gh,1180,Ghana,Ghana,GHA,M,Africa,AFR,GH,Lower middle income,WB_LMI,2017,2018
+Gibraltar,,,GIB,,GIB,,,,,,,,,,,,,,High income,WB_HI,2017,2018
+Greece,GR,GR,GRC,GRE,GRC,GR,GRC,"128,900",Greek,gr,4140,Grecia,Grèce,GRE,M,Europe,EUR,GR,High income,WB_HI,2017,2018
+Greenland,,,GRL,,GRL,,,,,,,,,,,,,,High income,WB_HI,2017,2018
+Grenada,WG,GJ,GRD,GRN,GRD,GD,GRD,340,"English, French patois",gd,2230,Granada,Grenade,GRA,M,Americas,AMR,GD,Upper middle income,WB_UMI,2017,2018
+Guadeloupe,,,GLP,,GLP,,,,,,2240,,,,,,,,,,2017,2018
+Guam,,,GUM,,GUM,,,,,,,,,,,,,,High income,WB_HI,2017,2018
+Guatemala,GCA,GT,GTM,GUA,GTM,GT,GTM,"107,160","Spanish, Amerindian languages",gt,2250,Guatemala,Guatemala,GUT,M,Americas,AMR,GU,Upper middle income,WB_UMI,2017,2018
+Guinea,RG,GV,GIN,GUI,GIN,GN,GUI,"245,720","French, local languages",gv,1190,Guinea,Guinée,GUI,M,Africa,AFR,GN,Low income,WB_LI,2017,2018
+Guinea-Bissau,,PU,GNB,GBS,GNB,GW,GNB,"28,120","Portuguese, Crioulo, African languages",pg,1192,Guinea-Bissau,Guinée-Bissau,GUB,M,Africa,AFR,GW,Low income,WB_LI,2017,2018
+Guyana,GUY,GY,GUY,GUY,GUY,GY,GUY,"196,850","English, Amerindian dialects, Creole, Caribbean Hindustani, Urdu",gy,2260,Guyana,Guyana,GUY,M,Americas,AMR,GY,Upper middle income,WB_UMI,2017,2018
+Haiti,RH,HA,HTI,HAI,HTI,HT,HTI,"27,560","French, Creole",ht,2270,Haiti,Haïti,HAI,M,Americas,AMR,HA,Low income,WB_LI,2017,2018
+Honduras,,HO,HND,HON,HND,HN,HND,"111,890","Spanish, Amerindian languages",ho,2280,Honduras,Honduras,HON,M,Americas,AMR,HO,Lower middle income,WB_LMI,2017,2018
+Hungary,H,HU,HUN,HUN,HUN,HU,HNG,"89,610",Hungarian,hu,4150,Hungria,Hongrie,HUN,M,Europe,EUR,HU,High income,WB_HI,2017,2018
+Iceland,IS,IC,ISL,ISL,ISL,IS,ISL,"100,250","Icelandic, English, Nordic languages, German",ic,4160,Islandia,Islande,ICE,M,Europe,EUR,IL,High income,WB_HI,2017,2018
+India,IND,IN,IND,IND,IND,IN,IND,"2,973,190","Hindi, English, Bengali, Telugu, many other official local languages",ii,3100,India,Inde,IND,M,South-East Asia,SEAR,IN,Lower middle income,WB_LMI,2017,2018
+Indonesia,RI,ID,IDN,INA,IDN,ID,INS,"1,811,570","Bahasa Indonesia, English, Dutch, local dialects",io,3110,Indonesia,Indonésie,INO,M,South-East Asia,SEAR,ID,Lower middle income,WB_LMI,2017,2018
+Iran (Islamic Republic of),IR,IR,IRN,IRI,IRN,IR,IRN,"1,628,550","Farsi, others",ir,3130,Iran (Republica Islamica del),Iran (République islamique d'),IRA,M,Eastern Mediterranean,EMR,IR,Upper middle income,WB_UMI,2017,2018
+Iraq,IRQ,IZ,IRQ,IRQ,IRQ,IQ,IRQ,"437,370","Arabic, Kurdish, Turkmen, Assyrian, Armenian",iq,3140,Iraq,Iraq,IRQ,M,Eastern Mediterranean,EMR,IQ,Upper middle income,WB_UMI,2017,2018
+Ireland,IRL,EI,IRL,IRL,IRL,IE,IRL,"68,890","English, Irish",ie,4170,Irlanda,Irlande,IRE,M,Europe,EUR,IE,High income,WB_HI,2017,2018
+Israel,IL,IS,ISR,ISR,ISR,IL,ISR,"21,640","Hebrew, others",is,3150,Israel,Israël,ISR,M,Europe,EUR,IS,High income,WB_HI,2017,2018
+Italy,I,IT,ITA,ITA,ITA,IT,I,"294,140",Italian,it,4180,Italia,Italie,ITA,M,Europe,EUR,IY,High income,WB_HI,2017,2018
+Jamaica,JA,JM,JAM,JAM,JAM,JM,JMC,"10,830","English, English patois",jm,2290,Jamaica,Jamaïque,JAM,M,Americas,AMR,JM,Upper middle income,WB_UMI,2017,2018
+Japan,J,JA,JPN,JPN,JPN,JP,J,"364,500",Japanese,ja,3160,Japan,Japon,JPN,M,Western Pacific,WPR,JP,High income,WB_HI,2017,2018
+Jordan,HKJ,JO,JOR,JOR,JOR,JO,JOR,"88,240",Arabic,jo,3170,Jordania,Jordanie,JOR,M,Eastern Mediterranean,EMR,JD,Upper middle income,WB_UMI,2017,2018
+Kazakhstan,KZ,KZ,KAZ,KAZ,KAZ,KZ,KAZ,"2,699,700","Kazakh, Russian",kz,4182,Kazajstan,Kazakhstan,KAZ,M,Europe,EUR,KZ,Upper middle income,WB_UMI,2017,2018
+Kenya,EAK,KE,KEN,KEN,KEN,KE,KEN,"569,140","English, Kiswahili, numerous indigenous languages",ke,1220,Kenya,Kenya,KEN,M,Africa,AFR,KN,Lower middle income,WB_LMI,2017,2018
+Kiribati,,KR,KIR,KIR,KIR,KI,KIR,810,"I-Kiribati, English",gb,5105,Kiribati,Kiribati,KIR,M,Western Pacific,WPR,KB,Lower middle income,WB_LMI,2017,2018
+Kuwait,KWT,KU,KWT,KUW,KWT,KW,KWT,"17,820",Arabic,ku,3190,Kuwait,Koweït,KUW,M,Eastern Mediterranean,EMR,KW,High income,WB_HI,2017,2018
+Kyrgyzstan,KS,KG,KGZ,KGZ,KGZ,KG,KGZ,"191,800","Kyrgyz, Uzbek, Russian , others",kg,4184,Kirguistan,Kirghizistan,KGZ,M,Europe,EUR,KG,Lower middle income,WB_LMI,2017,2018
+Lao People's Democratic Republic,LAO,LA,LAO,LAO,LAO,LA,LAO,"230,800","Lao, French, English, various ethnic languages",ls,3200,Republica Democratica Popular Lao,République démocratique populaire lao,LAO,M,Western Pacific,WPR,LA,Lower middle income,WB_LMI,2017,2018
+Latvia,LV,LG,LVA,LAT,LVA,LV,LVA,"62,196","Latvian, Russian, Lithuanian",lv,4186,Letonia,Lettonie,LVA,M,Europe,EUR,LV,High income,WB_HI,2017,2018
+Lebanon,RL,LE,LBN,LIB,LBN,LB,LBN,"10,230","Arabic, French, English, Armenian",le,3210,Libano,Liban,LEB,M,Eastern Mediterranean,EMR,LB,Upper middle income,WB_UMI,2017,2018
+Lesotho,LS,LT,LSO,LES,LSO,LS,LSO,"30,360","Sesotho, English, Zulu, Xhosa",lo,1230,Lesotho,Lesotho,LES,M,Africa,AFR,LS,Lower middle income,WB_LMI,2017,2018
+Liberia,LB,LI,LBR,LBR,LBR,LR,LBR,"96,320","English, some 20 ethnic languages",lb,1240,Liberia,Libéria,LIB,M,Africa,AFR,LI,Low income,WB_LI,2017,2018
+Libya,LAR,LY,LBY,LBA,LBY,LY,LBY,"1,759,540","Arabic, Italian, English, Berber",ly,1250,Libia,Libye,LIY,M,Eastern Mediterranean,EMR,LY,Upper middle income,WB_UMI,2017,2018
+Liechtenstein,,,LIE,,LIE,,,,,,,,,,,,,,High income,WB_HI,2017,2018
+Lithuania,LT,LH,LTU,LTU,LTU,LT,LTU,"62,675","Lithuanian, Russian, others",li,4188,Lituania,Lituanie,LTU,M,Europe,EUR,LT,High income,WB_HI,2017,2018
+Luxembourg,L,LU,LUX,LUX,LUX,LU,LUX,2590,"German, French, Luxembourgish",lu,4190,Luxemburgo,Luxembourg,LUX,M,Europe,EUR,BX,High income,WB_HI,2017,2018
+Madagascar,RM,MA,MDG,MAD,MDG,MG,MDG,"581,540","French, Malagasy, English",mg,1260,Madagascar,Madagascar,MAD,M,Africa,AFR,MG,Low income,WB_LI,2017,2018
+Malawi,MW,MI,MWI,MAW,MWI,MW,MWI,"94,280","Chichewa, Chinyanja, Chiyao, Chitumbuka, other local languages",mw,1270,Malawi,Malawi,MAL,M,Africa,AFR,MW,Low income,WB_LI,2017,2018
+Malaysia,MAL,MY,MYS,MAS,MYS,MY,MLA,"328,550","Bahasa Malaysia, English, Chinese, Tamil, Telugu, Malayalam, Panjabi, Thai, indigenous languages",my,3236,Malasia,Malaisie,MAA,M,Western Pacific,WPR,MS,Upper middle income,WB_UMI,2017,2018
+Maldives,,MV,MDV,MDV,MDV,MV,MLD,300,"Divehi, English",xc,3255,Maldivas,Maldives,MAV,M,South-East Asia,SEAR,MV,Upper middle income,WB_UMI,2017,2018
+Mali,RMM,ML,MLI,MLI,MLI,ML,MLI,"1,220,190","French, Bambara, others",ml,1280,Mali,Mali,MAI,M,Africa,AFR,MI,Low income,WB_LI,2017,2018
+Malta,M,MT,MLT,MLT,MLT,MT,MLT,320,"Maltese, English",mm,4200,Malta,Malte,MAT,M,Europe,EUR,ML,High income,WB_HI,2017,2018
+Marshall Islands,,RM,MHL,MSH,MHL,MH,MHL,,,xe,5107,Islas Marshall,Îles Marshall,MSI,M,Western Pacific,WPR,MH,Upper middle income,WB_UMI,2017,2018
+Martinique,,,MTQ,,MTQ,,,,,,2300,,,,,,,,,,2017,2018
+Mauritania,RIM,MR,MRT,MTN,MRT,MR,MTN,"1,030,700","Arabic, French, local languages",mu,1290,Mauritania,Mauritanie,MAU,M,Africa,AFR,MT,Lower middle income,WB_LMI,2017,2018
+Mauritius,MS,MP,MUS,MRI,MUS,MU,MAU,2030,"Creole, Bhojpuri, French, English, others",mf,1300,Mauricio,Maurice,MAS,M,Africa,AFR,MA,Upper middle income,WB_UMI,2017,2018
+Mayotte,,,MYT,,MYT,,,,,,,,,,,,,,,,2017,2018
+Mexico,MEX,MX,MEX,MEX,MEX,MX,MEX,"1,943,950","Spanish, indigenous languages",mx,2310,Mexico,Mexique,MEX,M,Americas,AMR,MX,Upper middle income,WB_UMI,2017,2018
+Micronesia (Federated States of),,FM,FSM,FSM,FSM,FM,FSM,700,"English, many local languages",fm,5108,Micronesia (Estados Federados de),Micronésie (États fédérés de),MIC,M,Western Pacific,WPR,,Lower middle income,WB_LMI,2017,2018
+Monaco,MC,MN,MCO,MON,MCO,MC,MCO,,,mc,4205,Monaco,Monaco,MON,M,Europe,EUR,,High income,WB_HI,2017,2018
+Mongolia,MGL,MG,MNG,MGL,MNG,MN,MNG,"1,553,560","Mongolian, Turkic, Russian",mp,3260,Mongolia,Mongolie,MOG,M,Western Pacific,WPR,MO,Lower middle income,WB_LMI,2017,2018
+Montenegro,,,MNE,,MNE,,,"13,450","Serbian, Montenegrin, Bosnian, Albanian, others",,4207,Montenegro,Monténégro,,M,Europe,EUR,,Upper middle income,WB_UMI,2017,2018
+Montserrat,,,MSR,,MSR,,,,,,2320,,,,,,,,,,2017,2018
+Morocco,MA,MO,MAR,MAR,MAR,MA,MRC,"446,300","Arabic, Berber languages, French",mr,1310,Marruecos,Maroc,MOR,M,Eastern Mediterranean,EMR,MC,Lower middle income,WB_LMI,2017,2018
+Mozambique,MOC,MZ,MOZ,MOZ,MOZ,MZ,MOZ,"786,380","Emakhuwa, Portuguese, Xichangana, other Mozambican languages",mz,1320,Mozambique,Mozambique,MOZ,M,Africa,AFR,MZ,Low income,WB_LI,2017,2018
+Myanmar,BUR,BM,MMR,MYA,MMR,MM,BRM,"653,310","Burmese, ethnic group languages",br,3270,Myanmar,Myanmar,MMR,M,South-East Asia,SEAR,BM,Lower middle income,WB_LMI,2017,2018
+NA,,,NA,,NA,,,,,,,,,,,,,,,,2017,2018
+Namibia,NAM,WA,NAM,NAM,NAM,NA,NMB,"823,290","English, Afrikaans, German, indigenous languages",sx,1325,Namibia,Namibie,NAM,M,Africa,AFR,NM,Upper middle income,WB_UMI,2017,2018
+Nauru,NAU,NR,NRU,NRU,NRU,NR,NRU,,,nu,5110,Nauru,Nauru,NRU,M,Western Pacific,WPR,NW,Upper middle income,WB_UMI,2017,2018
+Nepal,NEP,NP,NPL,NEP,NPL,NP,NPL,"143,350","Nepali, Maithali, Bhojpuri, Tharu, others",np,3280,Nepal,Népal,NEP,M,South-East Asia,SEAR,NP,Low income,WB_LI,2017,2018
+Netherlands,NL,NL,NLD,NED,NLD,NL,HOL,"33,760","Dutch, Frisian",ne,4210,Paises Bajos,Pays-Bas,NET,M,Europe,EUR,NL,High income,WB_HI,2017,2018
+Netherlands Antilles,,,ANT,,ANT,,,,,,2330,,,,,,,,,,2017,2018
+New Caledonia,,,NCL,,NCL,,,,,,,,,,,,,,High income,WB_HI,2017,2018
+New Zealand,NZ,NZ,NZL,NZL,NZL,NZ,NZL,"263,310","English, Maori, others",nz,5150,Nueva Zelandia,Nouvelle-Zélande,NEZ,M,Western Pacific,WPR,NZ,High income,WB_HI,2017,2018
+Nicaragua,NIC,NU,NIC,NCA,NIC,NI,NCG,"120,340","Spanish, others",nq,2340,Nicaragua,Nicaragua,NIC,M,Americas,AMR,NK,Lower middle income,WB_LMI,2017,2018
+Niger,RN,NG,NER,NIG,NER,NE,NGR,"1,266,700","French, Hausa, Djerma",ng,1330,Niger,Niger,NIG,M,Africa,AFR,NR,Low income,WB_LI,2017,2018
+Nigeria,NGR,NI,NGA,NGR,NGA,NG,NIG,"910,770","English, Hausa, Yoruba, hundreds of indigenous languages",nr,1340,Nigeria,Nigéria,NIE,M,Africa,AFR,NI,Lower middle income,WB_LMI,2017,2018
+Niue,NZ,NE,NIU,NIU,NIU,NU,NIU,,"English, Niuean",xh,5170,Niue,Nioué,NIU,M,Western Pacific,WPR,,Low-income,WB_LI,2017,2018
+Norfolk Island,,,NFK,,NFK,,,,,,,,,,,,,,,,2017,2018
+Northern Mariana Islands,,,MNP,,MNP,,,,,,,,,,,,,,High income,WB_HI,2017,2018
+Norway,N,NO,NOR,NOR,NOR,NO,NOR,"305,470","Bokmal Norwegian, Nynorsk Norwegian",no,4220,Noruega,Norvège,NOR,M,Europe,EUR,NO,High income,WB_HI,2017,2018
+Oman,,MU,OMN,OMA,OMN,OM,OMA,"309,500","Arabic, English, Baluchi, Urdu, Indian dialects",mk,3285,Oman,Oman,OMA,M,Eastern Mediterranean,EMR,OM,High income,WB_HI,2017,2018
+Pakistan,PK,PK,PAK,PAK,PAK,PK,PAK,"770,880","Punjabi, Sindhi, Saraiki, Pashtu, Urdu, Balochi, Hindko, Brahui, English, Burushaski, others",pk,3290,Pakistan,Pakistan,PAK,M,Eastern Mediterranean,EMR,PK,Lower middle income,WB_LMI,2017,2018
+Palau,,PS,PLW,PLW,PLW,PW,PLW,460,"Palauan, Filipino, English, Chinese, others",pw,5180,Palau,Palaos,BLA,M,Western Pacific,WPR,,High income,WB_HI,2017,2018
+Panama,PA,PM,PAN,PAN,PAN,PA,PNR,"74,340","Spanish, English",pn,2350,Panama,Panama,PAN,M,Americas,AMR,PM,High income,WB_HI,2017,2018
+Papua New Guinea,PNG,PP,PNG,PNG,PNG,PG,PNG,"452,860","Tok Pisin, English, Hiri Motu , some 836 indigenous languages",pp,5195,Papua Nueva Guinea,Papouasie-Nouvelle-Guinée,PNG,M,Western Pacific,WPR,NG,Lower middle income,WB_LMI,2017,2018
+Paraguay,PY,PA,PRY,PAR,PRY,PY,PRG,"397,300","Spanish, Guarani",py,2360,Paraguay,Paraguay,PAR,M,Americas,AMR,PY,Upper middle income,WB_UMI,2017,2018
+Peru,PE,PE,PER,PER,PER,PE,PRU,"1,280,000","Spanish, Quechua, Aymara, others",pe,2370,Peru,Pérou,PER,M,Americas,AMR,PR,Upper middle income,WB_UMI,2017,2018
+Philippines,RP,RP,PHL,PHI,PHL,PH,PHL,"298,170","Filipino, English, eight major dialects",ph,3300,Filipinas,Philippines,PHL,M,Western Pacific,WPR,PH,Lower middle income,WB_LMI,2017,2018
+Pitcairn Island,,,PCN,,PCN,,,,,,,,,,,,,,,,2017,2018
+Poland,PL,PL,POL,POL,POL,PL,POL,"304,220",Polish,pl,4230,Polonia,Pologne,POL,M,Europe,EUR,PL,High income,WB_HI,2017,2018
+Portugal,P,PO,PRT,POR,PRT,PT,POR,"91,470","Portuguese, Mirandese",po,4240,Portugal,Portugal,POR,M,Europe,EUR,PO,High income,WB_HI,2017,2018
+Puerto Rico,,,PRI,,PRI,,,,,,2380,,,,A,,,,High income,WB_HI,2017,2018
+Qatar,Q,QA,QAT,QAT,QAT,QA,QAT,"11,610",Arabic,qa,3320,Qatar,Qatar,QAT,M,Eastern Mediterranean,EMR,QT,High income,WB_HI,2017,2018
+Republic of Korea,ROK,KS,KOR,KOR,KOR,KR,KOR,"97,030",Korean,ko,3325,Republica de Corea,République de Corée,KOR,M,Western Pacific,WPR,KO,High income,WB_HI,2017,2018
+Republic of Moldova,MD,MD,MDA,MDA,MDA,MD,MDA,"32,890","Moldovan, Russian, Gagauz",mv,4260,la Republica de Moldova,République de Moldova,MDA,M,Europe,EUR,RM,Lower middle income,WB_LMI,2017,2018
+Republic of North Macedonia,MK,MK,MKD,MKD,MKD,MK,MKD,25230,"Macedonian, Albanian, others",xn,4195,North Macedonia,ex-RÃ©publique yougoslave de MacÃ©doine,MKD,M,Europe,EUR,MJ,Upper middle income,WB_UMI,2017,2018
+Reunion,,,REU,,REU,,,,,,1360,,,,,,,,,,2017,2018
+Rodrigues,,,XOD,,XOD,,,,,,1365,,,,,,,,,,2017,2018
+Romania,RO,RO,ROU,ROM,ROU,RO,ROU,"229,900","Romanian, others",rm,4270,Rumania,Roumanie,ROM,M,Europe,EUR,RO,Upper middle income,WB_UMI,2017,2018
+Russian Federation,RUS,RS,RUS,RUS,RUS,RU,RUS,"16,376,870","Russian, many minority languages",ru,4272,Federacion de Rusia,Fédération de Russie,RUS,M,Europe,EUR,RS,Upper middle income,WB_UMI,2017,2018
+Rwanda,RWA,RW,RWA,RWA,RWA,RW,RRW,"24,670","Kinyarwanda, French, English, Kiswahili",rw,1370,Rwanda,Rwanda,RWA,M,Africa,AFR,RW,Low income,WB_LI,2017,2018
+Ryu Kyu Islands,,,XX4,,XX4,,,,,,3330,,,,,,,,,,2017,2018
+Saint Helena,,,SHN,,SHN,,,,,,,,,,,,,,,,2017,2018
+Saint Kitts and Nevis,,SC,KNA,SKN,KNA,KN,SCN,,English,xd,2385,Saint Kitts y Nevis,Saint-Kitts-et-Nevis,SCN,M,Americas,AMR,AT,High income,WB_HI,2017,2018
+Saint Lucia,WL,ST,LCA,LCA,LCA,LC,LCA,,"English, French patois",xk,2400,Santa Lucia,Sainte-Lucie,SAL,M,Americas,AMR,LC,Upper middle income,WB_UMI,2017,2018
+Saint Pierre and Miquelon,,,SPM,,SPM,,,,,,2410,,,,,,,,,,2017,2018
+Saint Vincent and the Grenadines,WV,VC,VCT,VIN,VCT,VC,VCT,,"English, French patois",xm,2420,San Vicente y las Granadinas,Saint-Vincent-et-les Grenadines,SAV,M,Americas,AMR,VG,Upper middle income,WB_UMI,2017,2018
+Samoa,WS,WS,WSM,SAM,WSM,WS,SMO,"2,830","Samoan, English",ws,5197,Samoa,Samoa,SMA,M,Western Pacific,WPR,ZM,Upper middle income,WB_UMI,2017,2018
+San Marino,RSM,SM,SMR,SMR,SMR,SM,SMR,60,Italian,sm,4275,San Marino,Saint-Marin,SMR,M,Europe,EUR,,High income,WB_HI,2017,2018
+Sao Tome and Principe,,TP,STP,STP,STP,ST,STP,960,Portuguese,sf,1385,Santo Tome y Principe,Sao Tomé-et-Principe,STP,M,Africa,AFR,TP,Lower middle income,WB_LMI,2017,2018
+Saudi Arabia,SA,SA,SAU,KSA,SAU,SA,ARS,"2,149,690",Arabic,su,3340,Arabia Saudita,Arabie saoudite,SAA,M,Eastern Mediterranean,EMR,SD,High income,WB_HI,2017,2018
+Senegal,SN,SG,SEN,SEN,SEN,SN,SEN,"192,530","French, Wolof, Pulaar, Jola, Mandinka",sg,1390,Senegal,Sénégal,SEN,M,Africa,AFR,SG,Low income,WB_LI,2017,2018
+Serbia,SCG,RB,SRB,SER,SRB,RS,SRB,"87,460","Serbian, others",yu,4273,Serbia,Serbie,SRB,M,Europe,EUR,YG,Upper middle income,WB_UMI,2017,2018
+"Serbia and Montenegro, Former",,,SCG,,SCG,CS,,,,,4350,,,,,,,,,,2017,2018
+Seychelles,SY,SE,SYC,SEY,SYC,SC,SEY,460,"Creole, English, others",se,1400,Seychelles,Seychelles,SEY,M,Africa,AFR,SC,High income,WB_HI,2017,2018
+Sierra Leone,WAL,SL,SLE,SLE,SLE,SL,SRL,"71,620","English, Mende, Temne, Krio",sl,1410,Sierra Leona,Sierra Leone,SIL,M,Africa,AFR,SL,Low income,WB_LI,2017,2018
+Singapore,SGP,SN,SGP,SIN,SGP,SG,SNG,700,"Mandarin, English, Malay, Hokkien, others",si,3350,Singapur,Singapour,SIN,M,Western Pacific,WPR,SR,High income,WB_HI,2017,2018
+Sint Maarten (Dutch part),,,SXM,,SXM,,,,,,,,,,,,,,High income,WB_HI,2017,2018
+Slovakia,SK,LO,SVK,SVK,SVK,SK,SVK,"48,100","Slovak, Hungarian, others",xo,4274,Eslovaquia,Slovaquie,SVK,M,Europe,EUR,SQ,High income,WB_HI,2017,2018
+Slovenia,SLO,SI,SVN,SLO,SVN,SI,SVN,"20,140","Slovenian, Serbo-Croatian, others",xv,4276,Eslovenia,Slovénie,SVN,M,Europe,EUR,LJ,High income,WB_HI,2017,2018
+Solomon Islands,,BP,SLB,SOL,SLB,SB,SLM,"27,990","Melanesian pidgin, English, 120 indigenous languages",bp,5198,Islas Salomon,Îles Salomon,SOL,M,Western Pacific,WPR,SO,Lower middle income,WB_LMI,2017,2018
+Somalia,SO,SO,SOM,SOM,SOM,SO,SOM,"627,340","Somali, Arabic, Italian, English",so,1420,Somalia,Somalie,SOM,M,Eastern Mediterranean,EMR,SI,Low income,WB_LI,2017,2018
+South Africa,ZA,SF,ZAF,RSA,ZAF,ZA,AFS,"1,213,090","IsiZulu, IsiXhosa, Afrikaans, Sepedi, English, Setswana, Sesotho, Xitsonga, siSwati, others",sa,1430,Sudafrica,Afrique du Sud,SOA,M,Africa,AFR,ZA,Upper middle income,WB_UMI,2017,2018
+South Sudan,,,SSD,,SSD,,,,,,,Sudan del Sur,Soudan du Sud,,M,Africa,AFR,,Low income,WB_LI,2017,2018
+Spain,E,SP,ESP,ESP,ESP,ES,E,"498,800","Spanish, Catalan, Galician, Basque",sp,4280,Espana,Espagne,SPA,M,Europe,EUR,SP,High income,WB_HI,2017,2018
+Sri Lanka,CL,CE,LKA,SRI,LKA,LK,CLN,"62,710","Sinhala, Tamil, others",ce,3365,Sri Lanka,Sri Lanka,SRL,M,South-East Asia,SEAR,SB,Lower middle income,WB_LMI,2017,2018
+Sudan,SUD,SU,SDN,SUD,SDN,SD,SDN,"2,376,000","Arabic, English, Nubian, Ta Bedawie, Fur",sj,1470,Sudan,Soudan,SUD,M,Eastern Mediterranean,EMR,SU,Lower middle income,WB_LMI,2017,2018
+Sudan (former),,,SDN,,SDF,,,,,,,,,,,Eastern Mediterranean,EMR,,Lower-middle-income,WB_LMI,2017,2018
+Suriname,SME,NS,SUR,SUR,SUR,SR,SUR,"156,000","Dutch, English, Sranang Tongo, Caribbean Hindustani, Javanese",sr,2430,Suriname,Suriname,SUR,M,Americas,AMR,SM,Upper middle income,WB_UMI,2017,2018
+Sweden,S,SW,SWE,SWE,SWE,SE,S,"410,340","Swedish, others",sw,4290,Suecia,Suède,SWE,M,Europe,EUR,SN,High income,WB_HI,2017,2018
+Switzerland,CH,SZ,CHE,SUI,CHE,CH,SUI,"40,000","German, French, Italian, Romansch, others",sz,4300,Suiza,Suisse,SWI,M,Europe,EUR,SW,High income,WB_HI,2017,2018
+Syrian Arab Republic,SYR,SY,SYR,SYR,SYR,SY,SYR,"183,640","Arabic, Kurdish, Armenian, Aramaic, Circassian, French",sy,3370,Republica Arabe Siria,République arabe syrienne,SYR,M,Eastern Mediterranean,EMR,SY,Low income,WB_LI,2017,2018
+Tajikistan,TJ,TI,TJK,TJK,TJK,TJ,TJK,"139,960","Tajik, Russian",ta,4301,Tayikistan,Tadjikistan,TJK,M,Europe,EUR,TA,Low income,WB_LI,2017,2018
+Thailand,T,TH,THA,THA,THA,TH,THA,"510,890","Thai, others",th,3380,Tailandia,Thaïlande,THA,M,South-East Asia,SEAR,TH,Upper middle income,WB_UMI,2017,2018
+The former state union Serbia and Montenegro,Yes,MJ,MNE,MGO,ME1,ME,MNE,,,,,,,MNE,,South-East Asia,SEAR,,Lower-middle-income,WB_LMI,2017,2018
+Timor-Leste,,TT,TLS,TLS,TLS,TL,TMP,"14,870","Tetum, Portuguese, Indonesian, English",em,3087,Timor-Leste,Timor-Leste,TLS,M,South-East Asia,SEAR,TM,Lower middle income,WB_LMI,2017,2018
+Togo,TG,TO,TGO,TOG,TGO,TG,TGO,"54,390","French, Ewe, Mina, Kabye, Dagomba",tg,1510,Togo (el),Togo,TOG,M,Africa,AFR,TG,Low income,WB_LI,2017,2018
+Tokelau,,,TKL,,TKL,,,,,,,,,,A,,,,,,2017,2018
+Tonga,,TN,TON,TGA,TON,TO,TON,720,"Tongan, English",to,5200,Tonga,Tonga,TON,M,Western Pacific,WPR,TO,Upper middle income,WB_UMI,2017,2018
+Trinidad and Tobago,TT,TD,TTO,TRI,TTO,TT,TRD,"5,130","English, Caribbean Hindustani, French, Spanish, Chinese",tr,2440,Trinidad y Tabago,Trinité-et-Tobago,TRT,M,Americas,AMR,TD,High income,WB_HI,2017,2018
+Tunisia,TN,TS,TUN,TUN,TUN,TN,TUN,"155,360","Arabic, French, Berber",ti,1520,Tunez,Tunisie,TUN,M,Eastern Mediterranean,EMR,TS,Lower middle income,WB_LMI,2017,2018
+Turkey,TR,TU,TUR,TUR,TUR,TR,TUR,"769,630","Turkish, Kurdish, other minority languages",tu,3400,Turquia,Turquie,TUR,M,Europe,EUR,TU,Upper middle income,WB_UMI,2017,2018
+Turkmenistan,TM,TX,TKM,TKM,TKM,TM,TKM,"469,930","Turkmen, Russian, Uzbek, others",tk,4302,Turkmenistan,Turkménistan,TKM,M,Europe,EUR,TR,Upper middle income,WB_UMI,2017,2018
+Turks and Caicos Islands,,,TCA,,TCA,,,,,,2445,,,,,,,,High income,WB_HI,2017,2018
+Tuvalu,,TV,TUV,TUV,TUV,TV,TUV,30,"Tuvaluan, English, Samoan, Kiribati",tv,5205,Tuvalu,Tuvalu,TUV,M,Western Pacific,WPR,TV,Upper middle income,WB_UMI,2017,2018
+"USSR, Former",,,XX9,,XX9,,,,,,4304,,,,,,,,,,2017,2018
+Uganda,EAU,UG,UGA,UGA,UGA,UG,UGA,"199,810","English, Ganda, other Niger-Congo languages, Nilo-Saharan languages, Swahili, Arabic",ug,1530,Uganda,Ouganda,UGA,M,Africa,AFR,UG,Low income,WB_LI,2017,2018
+Ukraine,UA,UP,UKR,UKR,UKR,UA,UKR,"579,320","Ukrainian, Russian, others",un,4303,Ucrania,Ukraine,UKR,M,Europe,EUR,UR,Lower middle income,WB_LMI,2017,2018
+United Arab Emirates,,AE,ARE,UAE,ARE,AE,UAE,"83,600","Arabic, Persian, English, Hindi, Urdu",ts,3405,Emiratos A�rabes Unidos,Émirats arabes unis,UAE,M,Eastern Mediterranean,EMR,ER,High income,WB_HI,2017,2018
+United Kingdom of Great Britain and Northern Ireland,GB,UK,GBR,GBR,GBR,GB,G,"241,930",English,xxk,4308,Reino Unido de Gran Bretana e Irlanda del Norte,Royaume-Uni de Grande-Bretagne et d'Irlande du Nord,UNK,M,Europe,EUR,UK,High income,WB_HI,2017,2018
+"United Kingdom, England and Wales",,,X10,,X10,,,,,,4310,,,,,,,,,,2017,2018
+"United Kingdom, Northern Ireland",,,X11,,X11,,,,,,4320,,,,,,,,,,2017,2018
+"United Kingdom, Scotland",,,X12,,X12,,,,,,4330,,,,,,,,,,2017,2018
+United Republic of Tanzania,EAT,TZ,TZA,TAN,TZA,TZ,TZA,"885,800","Swahili, Kiunguja, English, Arabic, many local languages",tz,1546,Republica Unida de Tanzania,République-Unie de Tanzanie,TAN,M,Africa,AFR,TN,Low income,WB_LI,2017,2018
+United States of America,USA,US,USA,USA,USA,US,USA,"9,147,420",English,xxu,2450,Estados Unidos de America,États-Unis d'Amérique,USA,M,Americas,AMR,US,High income,WB_HI,2017,2018
+Uruguay,ROU,UY,URY,URU,URY,UY,URG,"175,020","Spanish, Portunol, Brazilero",uy,2460,Uruguay,Uruguay,URU,M,Americas,AMR,UY,High income,WB_HI,2017,2018
+Uzbekistan,UZ,UZ,UZB,UZB,UZB,UZ,UZB,"425,400","Uzbek, Russian, Tajik, others",uz,4335,Uzbekistan,Ouzbékistan,UZB,M,Europe,EUR,UZ,Lower middle income,WB_LMI,2017,2018
+Vanuatu,,NH,VUT,VAN,VUT,VU,VUT,"12,190","Pidgin, English, French, more than 100 local languages, others",nn,5207,Vanuatu,Vanuatu,VAN,M,Western Pacific,WPR,NV,Lower middle income,WB_LMI,2017,2018
+Venezuela (Bolivarian Republic of),YV,VE,VEN,VEN,VEN,VE,VEN,"882,050","Spanish, numerous indigenous dialects",ve,2470,Venezuela (Republica Bolivariana de),Venezuela (République bolivarienne du),VEN,M,Americas,AMR,VN,Upper middle income,WB_UMI,2017,2018
+Viet Nam,VN,VM,VNM,VIE,VNM,VN,VTN,"310,070","Vietnamese, others",vm,3408,Viet Nam,Viet Nam,VTN,M,Western Pacific,WPR,VS,Lower middle income,WB_LMI,2017,2018
+Virgin Islands (USA),,,VIR,,VIR,,,,,,2455,,,,,,,,High income,WB_HI,2017,2018
+Wallis and Futuna Islands,,,WLF,,WLF,,,,,,,,,,,,,,,,2017,2018
+Yemen,YAR,YM,YEM,YEM,YEM,YE,YEM,"527,970",Arabic,ye,3420,Yemen,Yémen,YEM,M,Eastern Mediterranean,EMR,YE,Low income,WB_LI,2017,2018
+"Yugoslavia, Former",,,X13,,X13,,,,,,4340,,,,,,,,,,2017,2018
+Zambia,Z,ZA,ZMB,ZAM,ZMB,ZM,ZMB,"743,390","English, 11 Bantu languages, Nyanja, Tonga, Lozi, Chewa, Nsenga, others",za,1560,Zambia,Zambie,ZAM,M,Africa,AFR,ZB,Lower middle income,WB_LMI,2017,2018
+Zimbabwe,ZW,ZI,ZWE,ZIM,ZWE,ZW,ZWE,"386,850","English, Shona, Sindebele, numerous tribal dialects",rh,1570,Zimbabwe,Zimbabwe,ZIM,M,Africa,AFR,ZW,Low income,WB_LI,2017,2018
+"occupied Palestinian territory, including east Jerusalem",,,PSE,,PSE,,,,,,,,,,,,,,Lower middle income,WB_LMI,2017,2018
